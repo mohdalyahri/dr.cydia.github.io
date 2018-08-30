@@ -1,0 +1,1719 @@
+Package: com.cpdigitaldarkroom.barmoji
+Name: Barmoji
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: إضافة الـEmoji أسفل الكيبورد على الـiPhoneX
+Depiction: https://jailbreakgroup.github.io/depictions/?p=barmoji
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios11.4
+Version: 1.3.2
+Installed-Size: 168
+Size: 23856
+MD5sum: 5c00c5259de2a8df40707a44e86b4e15
+Filename: ./debs/Barmoji.deb
+
+Package: com.cpdigitaldarkroom.benrosen.facespro
+Name: Faces Pro
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.3), ws.hbang.common (>= 1.6)
+Architecture: iphoneos-arm
+Description: استبدال خلفية الارقام بصورة على شاشة القفل
+Depiction: https://jailbreakgroup.github.io/depictions/?p=facespro
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Author: Ben Rosen & CPDigitalDarkroom <support@quantumtweaks.com>
+Section: Tweaks
+Version: 1.2
+Installed-Size: 452
+Size: 132486
+MD5sum: d4a33ae04d5197952bb029d6e0cd76ce
+Filename: ./debs/Faces Pro.deb
+
+Package: com.spark.HideBarX
+Name: HideBarX [Public]
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: إخفاء شريط الهوم على الـiPhone X
+Depiction: https://jailbreakgroup.github.io/depictions/?p=HideBarX
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 56
+Size: 3164
+MD5sum: 2b4a8054dd9a6a9889fdb0297b7f5d00
+Filename: ./debs/HideBarX_0.0.2.deb
+
+Package: com.lacertosusrepo.glacies
+Name: Vitrum
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: تخصيص خلفية مركز التحكم والتحكم بشفافيته
+Depiction: https://jailbreakgroup.github.io/depictions/?p=glacies
+Maintainer: LacertosusDeus <LacertosusThemes@gmail.com>
+Author: LacertosusDeus <LacertosusThemes@gmail.com>
+Section: Tweaks
+Version: 1.3
+Installed-Size: 224
+Size: 35472
+MD5sum: 6ae15e135f4acb51454fae7bb3e45b92
+Filename: ./debs/Vitrum_1.3.deb
+
+Package: com.julioverne.appstoreunrestrict
+Name: Appstore Unrestrict
+Author: julioverne
+Version: 0.0~beta4a
+Depends: preferenceloader, mobilesubstrate
+Architecture: iphoneos-arm
+Description: السماح بتحميل التطبيقات ذات حجم أكبر من 150 ميجا بايت من الـAppStore
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/AppstoreUnrestrictSettings.bundle/icon@2x.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=appstoreunrestrict
+Size: 26200
+MD5sum: 669e6b1c112f3d59801b048a3adc3fa3
+Filename: ./debs/appstoreunrestrict_0.0~beta4a.deb
+
+Package: net.tateu.askbeforecallingtoo11
+Name: AskBeforeCalling Too 11
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.askbeforecallingtoo
+Architecture: iphoneos-arm
+Description: التاكيد قبل الاتصال
+Depiction: https://jailbreakgroup.github.io/depictions/?p=askbeforecallingtoo11
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Section: Tweaks
+Version: 1.0.0~beta18-6
+Installed-Size: 231
+Size: 41772
+MD5sum: 6f30960ad9a101600f3eea846f5c2af8
+Filename: ./debs/askbeforecallingtoo11_1.0.0~beta18-6.deb
+
+Author: Orangebananaspy <support@orangebananaspy.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: BetterBadges
+Package: com.orangebananaspy.betterbadges
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader, com.orangebananaspy.libobsutilities (>= 1.2)
+Section: Tweaks
+Installed-Size: 4616
+Version: 1.6-1
+Architecture: iphoneos-arm
+Description: تخصيص ايقونة الاشعارات الخاصة بالتطبيقات
+Depiction: https://jailbreakgroup.github.io/depictions/?p=betterbadges
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterbadgesDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: orangebananaspy
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Library/PreferenceBundles/BetterBadgesPrefs.bundle/icon@2x.png
+Size: 1027992
+MD5sum: 8391dc31cb2b51e4c66f175a2b15bed2
+Filename: ./debs/betterbadges_1.6-1.deb
+
+Package: com.thecomputerwhisperer.boldbatterypercent
+Version: 2.0b-1+debug
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Description: تعريض البطارية على شريط الحالة
+Name: BoldBatteryPercent
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=boldbatterypercent
+Size: 92472
+MD5sum: ab423c7cab652103a91c0795d50e4cdd
+Filename: ./debs/boldbatterypercent_2.0b-1+debug.deb
+
+Package: com.julioverne.cacheclearer11
+Name: CacheClearer (iOS 11)
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Conflicts: com.rpetrich.cacheclearer
+Architecture: iphoneos-arm
+Description: تنظيف الكاش الخاص بالتطبيقات
+Maintainer: Julio
+Author: Ryan Petrich, julioverne
+Section: Tweaks
+dev: rpetrich
+Version: 0.1a
+Depiction: https://jailbreakgroup.github.io/depictions/?p=cacheclearer11
+Size: 9274
+MD5sum: 0f568d50a130814ba49c9d0e050775c3
+Filename: ./debs/cacheclearer11_0.1a.deb
+
+Package: net.tateu.calldismiss
+Name: CallDismiss
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: تجاهل المكالمات بالضغط على زر الهوم
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=calldismiss
+Section: Tweaks
+Version: 1.0.0~beta6
+Installed-Size: 287
+Size: 21832
+MD5sum: d761f6a397d2200e1c7b9cae7943b6b5
+Filename: ./debs/calldismiss_1.0.0_beta6.deb
+
+Package: com.rustybalboa.colormycc
+Name: colormycc
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.1)
+Architecture: iphoneos-arm
+Description: تلوين مركز التحكم
+Depiction: https://jailbreakgroup.github.io/depictions/?p=colormycc
+Maintainer: Maddox, Muirey03
+Author: Maddox, Muirey03
+Section: Tweaks
+Version: 2.0.0
+Installed-Size: 270
+Size: 19364
+MD5sum: eb8dcb944d426419bffcf48cc6fc61dc
+Filename: ./debs/colormycc_2.0.0.deb
+
+Author: daniel63194 <eremeev.daniel69@icloud.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: ColorMyDock
+Package: com.daniel63194.colormydock
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.orangebananaspy.libobsutilities, ws.hbang.common (>= 1.11)
+Section: Tweaks
+Installed-Size: 470
+Version: 1.1
+Architecture: iphoneos-arm
+Description: تغيير لون الدوك السفلي
+Depiction: https://jailbreakgroup.github.io/depictions/?p=colormydock
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colormydockDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: daniel63194
+Tag: purpose::extension, compatible::ios11
+Icon: file:///Library/PreferenceBundles/ColorMyDock.bundle/icon@2x.png
+Size: 227684
+MD5sum: 8b2ce401091d6e445dce3231082463a1
+Filename: ./debs/colormydock_1.1.deb
+
+Package: com.supermamon.cylastrefreshed
+Name: CyLastRefreshed
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: إظهار أخر وقت تم تحديث السورسات فية
+Depiction: https://jailbreakgroup.github.io/depictions/?p=cylastrefreshed
+Maintainer: supermamon <at.supermamon@gmail.com>
+Author: supermamon <at.supermamon@gmail.com>
+Section: Tweaks
+Version: 0.0.3
+Installed-Size: 197
+Size: 203794
+MD5sum: 1785ff04c045005a20cbba997067ce50
+Filename: ./debs/cylastrefreshed_0.0.3.deb
+
+Package: com.julioverne.cypush2
+Name: CyPush2
+Author: julioverne
+Version: 1.1
+Depends: firmware (>= 7.0), firmware (<< 12.0), cydia, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cypush
+Architecture: iphoneos-arm
+Description: إشعارات السيديا
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=cypush2
+Size: 115070
+MD5sum: 57a80808493e9defc0ce4bf5aee2cc40
+Filename: ./debs/cypush2_1.1.deb
+
+Package: nl.d4ni.disconnected
+Version: 1.0
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, net.limneos.libbulletin
+Architecture: iphoneos-arm
+Installed-Size: 136
+Description: إشعار عند انقطاع الاتصال من الواي فاي 
+Depiction: https://jailbreakgroup.github.io/depictions/?p=disconnected
+Name: Disconnected
+Author: D4ni <mail@d4ni.nl>
+Size: 4132
+MD5sum: 91f5602dedcbcfc152e90e01271e5206
+Filename: ./debs/disconnected_1.0.deb
+
+Package: com.smokin1337.fdots
+Name: FDots
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: إخفاء النقاط من النظام
+Depiction: https://jailbreakgroup.github.io/depictions/?p=fdots
+Maintainer: smokin1337
+Author: smokin1337
+Section: Tweaks
+Version: 1.0.0-4
+Installed-Size: 224
+Size: 47880
+MD5sum: fafa2fc9e61e8e7cc7451cb586d17060
+Filename: ./debs/fdots_1.0.0-4.deb
+
+Package: com.douliuroczy.hidefeedback
+Name: Hide Feedback
+Author: Adel Hammoud <rs.ss.zl1.z28@gmail.com>
+Description: إخفاء ايقونة تطبيق الـFeedback
+Depiction: https://jailbreakgroup.github.io/depictions/?p=hidefeedback
+Depends: mobilesubstrate
+Maintainer: Adel Hammoud <rs.ss.zl1.z28@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.1
+Installed-Size: 120
+Size: 2892
+MD5sum: 920cac79bc5e3ba604f96d40b71f4eb0
+Filename: ./debs/hidefeedback_0.1.deb
+
+Package: nl.d4ni.hotspotusage
+Version: 0.2
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 136
+Description: إظهار استهلاك الانترنت عند تشغيل نقطة الإتصال الشخصية
+Depiction: https://jailbreakgroup.github.io/depictions/?p=hotspotusage
+Name: HotspotUsage
+Author: D4ni <mail@d4ni.nl>
+Size: 9068
+MD5sum: 9ab454f667ac3f36a6eb9adf580f85db
+Filename: ./debs/hotspotusage_0.2.deb
+
+Package: com.spark.laetus
+Name: Laetus
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: تغيير لون الكيبورد
+Depiction: https://jailbreakgroup.github.io/depictions/?p=laetus
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.1-108
+Installed-Size: 616
+Size: 84476
+MD5sum: a1e266413a5e22c50c0880c167e8aba8
+Filename: ./debs/laetus_0.0.1-108.deb
+
+Name: LetMeKnow
+Package: com.imkpatil.letmeknow
+Priority: optional
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader
+Version: 1.3
+Architecture: iphoneos-arm
+Description: إهتزاز الهاتف عند البدء/الإنتهاء من المكالة
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=letmeknowDp
+Depiction: https://jailbreakgroup.github.io/depictions/?p=letmeknow
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Kiran Patil <patilkiran08@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios11
+Installed-Size: 195
+dev: imkpatil
+Icon: file:///Library/PreferenceBundles/LetMeKnowPrefs.bundle/LetMeKnowPrefs.png
+Size: 23732
+MD5sum: 319b1b8332eeaadfe9614af81f9b2ae8
+Filename: ./debs/letmeknow_1.3.deb
+
+Package: com.muirey03.smallsiri
+Name: SmallSiri
+Depends: MobileSubstrate
+Architecture: iphoneos-arm
+Description: تصغيير سيري على الشاشه عند الحديث معها
+Depiction: https://jailbreakgroup.github.io/depictions/?p=SmallSiri
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 117
+Size: 7078
+MD5sum: 39a4c28d427fc3d0f3b65122c278ce06
+Filename: ./debs/SmallSiri.deb
+
+Package: com.thireus.untrustedhostsblocker9
+Priority: standard
+Name: iOS 9/10/11 - Untrusted Hosts Blocker
+Version: 1.4.0
+Installed-Size: 68
+Section: Security
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds
+Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker
+Architecture: iphoneos-arm
+Depiction: https://jailbreakgroup.github.io/depictions/?p=untrustedHostsBlocker9
+Author: Thireus <repo@thireus.com>
+Maintainer: Thireus <repo@thireus.com>
+Description: من افضل الادوات لمنع الاعلانات بجهازك
+Homepage: https://repo.thireus.com
+Size: 45352
+MD5sum: 1b71002fd80d321cbe14cec7ec67bceb
+Filename: ./debs/UntrustedHostsBlocker9_1.4.0-1.deb
+
+Package: com.spark.melior
+Name: Melior [Public]
+Depends: MobileSubstrate, PreferenceLoader
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Architecture: iphoneos-arm
+Description: تغيير واجعة الصوت وتصميمها
+Depiction: https://jailbreakgroup.github.io/depictions/?p=melior
+Maintainer: Spark
+Author: Spark & Dennis Bednarz
+Section: Tweaks
+Version: 1.0.6-1
+Installed-Size: 844
+Size: 208304
+MD5sum: 0d59359a996519fc240c6ae74ddabbdf
+Filename: ./debs/melior_1.0.6-1.deb
+
+Package: com.smokin1337.moveupcydia
+Name: MoveUpCydia
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: رفع اقسام السيديا السفليه الى الاعلى عند وضع الشاشه الكامله
+Depiction: https://jailbreakgroup.github.io/depictions/?p=moveupcydia
+Maintainer: smokin1337
+Author: smokin1337
+Section: Tweaks
+Version: 1.0-3
+Installed-Size: 72
+Size: 2322
+MD5sum: efc0bea37749a3f29bca6a6c9fdab4c5
+Filename: ./debs/moveupcydia_1.0-3.deb
+
+Package: net.tateu.nextalarm10
+Name: NextAlarm10
+Depends: firmware (>=10.0), MobileSubstrate, PreferenceLoader
+Architecture: iphoneos-arm
+Description: عرض المنبه القادم على شاشة القفل تحت الساعه مباشرة
+Maintainer: tateu
+Author: tateu
+Depiction: https://jailbreakgroup.github.io/depictions/?p=nextalarm10
+Section: Tweaks
+Version: 1.0.0~beta1-10
+Installed-Size: 474
+Size: 115684
+MD5sum: 95dae0965acef715716e693d4f3116d7
+Filename: ./debs/nextalarm10_1.0.0~beta1-10.deb
+
+Package: com.spark.noccbar
+Name: NoCCBar
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: ازالة السهم الصغير الذي يظهر عند سحب مركز التحكم او مركز الاشعارات
+Depiction: https://jailbreakgroup.github.io/depictions/?p=noccbar
+Author: Spark
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 120
+Size: 2726
+MD5sum: ba006826197fe8af99f6abf14c60abe9
+Filename: ./debs/noccbar_1.0.1.deb
+
+Package: nl.d4ni.nolockscreenshot
+Version: 0.0.2
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Installed-Size: 120
+Description: تعطيل اخذ لقطة للشاشة عندما يكون الجهاز بوضع القفل
+Depiction: https://jailbreakgroup.github.io/depictions/?p=nolockscreenshot
+Name: NoLockscreenShot
+Author: D4ni <mail@d4ni.nl>
+Size: 3642
+MD5sum: d04e393de5c6ece114a73b827b7e56d1
+Filename: ./debs/nolockscreenshot_0.0.2.deb
+
+Package: com.spark.nolowpowerautolock
+Name: NoLowPowerAutoLock [Public]
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: ازالة القيد (30) ثانيه عند تفعيل وضع توفير الطاقة المنخفضة
+Depiction: https://jailbreakgroup.github.io/depictions/?p=nolowpowerautolock
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 300
+Size: 26888
+MD5sum: cc494732f1cfa8624d4e405b5167efc2
+Filename: ./debs/nolowpowerautolock_0.0.2.deb
+
+Package: com.spark.nomoresmallapps
+Name: NoMoreSmallApps [Public]
+Depends: mobilesubstrate, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Description: جعل البرامج تعمل بوضع الشاشة الكاملة على iPhone X
+Depiction: https://jailbreakgroup.github.io/depictions/?p=nomoresmallapps
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 208
+Size: 18748
+MD5sum: c354d7245e94b0ebd6d0aebd3a12792b
+Filename: ./debs/nomoresmallapps_0.0.2.deb
+
+Package: com.rishanan.nvs
+Name: NoVolumeSlider
+Depends: mobilesubstrate
+Depiction: https://jailbreakgroup.github.io/depictions/?p=novolumeslider
+Architecture: iphoneos-arm
+Description: ازالة شريط رفع الصوت من جميع البرامج
+Maintainer: Rishanan
+Author: Rishanan
+Section: Tweaks
+Version: 1.0
+Installed-Size: 120
+Size: 2522
+MD5sum: 77fae0503e0601269775c88edb75c237
+Filename: ./debs/novolumeslider_1.0.deb
+
+Package: com.ryst.portraitlock
+Name: Portrait Lock
+Depends: mobilesubstrate, applist, preferenceloader
+Conflicts: com.myrepospace.ryst.portraitlock, com.hackingdartmouth.rotatelock
+Architecture: iphoneos-arm
+Description: تفعيل / تعطيل وضع دوران الشاشه في برامج تحددها انت
+Maintainer: Alex Beals <Alex.Beals.18@dartmouth.edu>
+Author: ryst
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=portraitlock
+Icon: file:///Library/PreferenceBundles/PortraitLock.bundle/PortraitLock@2x.png
+Version: 0.1.8-1
+Installed-Size: 320
+Size: 24572
+MD5sum: 9cfa104a130224200883914aab9b37b1
+Filename: ./debs/portraitlock_0.1.8-1.deb
+
+Package: com.rustybalboa.powertapxi
+Name: PowerTapXI
+Depends: mobilesubstrate, com.midnightchips.ldrun
+Architecture: iphoneos-arm
+Description: النسخة المحدثه من PowerTap على iOS 11
+Maintainer: Rusty_Balboa
+Author: Rusty_Balboa
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=powertapxi
+Version: 1.0.0-31
+Installed-Size: 120
+Size: 4558
+MD5sum: a7a87ecce77c1fb98e46c3ab3accad9b
+Filename: ./debs/powertapxi_1.0.0-31.deb
+
+Package: com.simalary.auxiliumdevelopment.previewbegone
+Name: PreviewBeGone
+Depends: mobilesubstrate, firmware(>=11.0)
+Architecture: iphoneos-arm
+Description: حذف المربع الذي يظهر بعد اخذ لقطة للشاشه
+Description: https://jailbreakgroup.github.io/depictions/?p=previewbegone
+Maintainer: Simalary (Chris)
+Author: Simalary (Chris)
+Section: Tweaks
+Version: 1.0
+Installed-Size: 117
+Size: 2882
+MD5sum: 3d312d2844ea5ef7568922e6796eadcc
+Filename: ./debs/previewbegone_1.0.deb
+
+Package: com.julioverne.quickunlock11
+Author: Phillip Tennen, julioverne
+Maintainer: Julio
+Name: QuickUnlock (iOS 11)
+Depends: mobilesubstrate
+Conflicts: com.phillipt.quickunlock
+Section: Tweaks
+Version: 1.0
+Architecture: iphoneos-arm
+Description: فتح الجهاز مباشرة اذا لم يكن هنالك اشعارات على الشاشه
+dev: phillipt
+Depiction: https://jailbreakgroup.github.io/depictions/?p=quickunlock11
+Size: 7338
+MD5sum: 9f4323d1ad8f0f270d6f26c2db731f5b
+Filename: ./debs/quickunlock11_1.0.deb
+
+Package: com.julioverne.raisetoanswer
+Name: RaiseToAnswer (iOS 11)
+Depends: mobilesubstrate
+Conflicts: com.mohammadag.raisetoanswer
+Version: 1.0-1b
+Architecture: iphoneos-arm
+Description: ارفع جهازك للرد على المكالمات
+Maintainer: Julio
+Author: MohammadAG, julioverne
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=raisetoanswer
+dev: mohammadag
+Size: 6970
+MD5sum: a33d3378d6fe3fcda07a49edbc34955e
+Filename: ./debs/raisetoanswer_1.0-1b.deb
+
+Package: com.spark.sleepytime
+Name: SleepyTime
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: عرض الوقت المتبقي للمنبه القادم على تطبيق الساعه
+Depiction: https://jailbreakgroup.github.io/depictions/?p=sleepytime
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.1-4
+Installed-Size: 336
+Size: 91684
+MD5sum: 26c5f33605e26e7c84daccae5b8c6556
+Filename: ./debs/sleepytime_0.0.1-4.deb
+
+Package: com.muirey03.smallccxi
+Name: SmallCCXI
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: جعل مركز التحكم اصغر 
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
+Icon: https://auxiliumdev.com/depictions/smallccxi/image.jpg
+Depiction: https://jailbreakgroup.github.io/depictions/?p=smallccxi
+Version: 1.0.5
+Installed-Size: 262
+Size: 23304
+MD5sum: e8cdb91f17b64e80be0610c20b4093a0
+Filename: ./debs/smallccxi_1.0.5.deb
+
+Package: com.smokin1337.smartlpm
+Name: SmartLPM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: وضع ذكي لتوفير الطاقة
+Maintainer: smokin1337
+Description: https://jailbreakgroup.github.io/depictions/?p=smartlpm
+Author: smokin1337
+Section: Tweaks
+Version: 1.3.0-1
+Installed-Size: 332
+Size: 145960
+MD5sum: fdfb47460a8146434c7b981844bbbc4c
+Filename: ./debs/smartlpm_1.3.0-1.deb
+
+Package: net.tateu.statusbarnox
+Name: StatusBar NoX
+Depends: firmware (>=11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Description: استخدم شريط الحاله القديم على ايفون X
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=statusbarnox
+Section: Tweaks
+Version: 0.0.2~beta1
+Installed-Size: 287
+Size: 23790
+MD5sum: a170c03c1c940023523e5ae4e896d814
+Filename: ./debs/statusbarnox_0.0.2_beta1.deb
+
+Package: com.ludvigeriksson.statusbartimer
+Name: StatusBarTimer
+Depends: iOS (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.2.3
+Architecture: iphoneos-arm
+Description: عرض مؤقت العد على شريط الحاله
+Depiction: https://jailbreakgroup.github.io/depictions/?p=statusbartimer
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statusbartimerDp
+Installed-Size: 319
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ludvig Eriksson <ludvigeriksson@icloud.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: ludvigeriksson
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:////Library/PreferenceBundles/StatusBarTimerPrefs.bundle/StatusBarTimerPrefs@2x.png
+Size: 58932
+MD5sum: 746aa3bbf6df6fc9dc8f1d4db6f93974
+Filename: ./debs/statusbartimer_1.2.3.deb
+
+Package: xyz.xninja.systeminfo
+Name: System Info
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 3.0)
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Description: اظف معلومات اكثر الى اعدادات جهازك
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=systeminfoDp
+Depiction: https://jailbreakgroup.github.io/depictions/?p=systeminfo
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: ARX8x <arx8@icloud.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+Installed-Size: 913
+dev: arx8x
+Size: 178342
+MD5sum: 9be407c44397f32812cf980f0465bd1a
+Filename: ./debs/systeminfo_2.0.0-1.deb
+
+Package: com.alex.tweakcount2
+Name: Tweak Count 2
+Author: Alexandre <Alexandre31.tweak@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Conflicts: com.alex.tweaksnumber
+Replaces: com.alex.tweaksnumber
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), cydia (>= 1.1.19), preferenceloader
+Section: Tweaks
+Installed-Size: 220
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: اظهـار عدد الادوات المثبته لديك في السيديا
+Depiction: https://jailbreakgroup.github.io/depictions/?p=tweakcount2
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcountDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: alexandre31
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/TweakCount2.bundle/TweakCount2@2x.png
+Size: 26512
+MD5sum: 1725d035b3a89250fb505b0577d37037
+Filename: ./debs/tweakcount2_1.0.1.deb
+
+Package: com.hackingdartmouth.alphabetsources
+Name: AlphabetSources
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: تقسيم وترتيب السورسات أبجديًا
+Maintainer: Alex Beals <Alex.Beals.18@dartmouth.edu>
+Author: Alex Beals <Alex.Beals.18@dartmouth.edu>
+Section: Tweaks
+Icon: file:///Library/Application Support/AlphabetSources/icon@2x.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=alphabetsources
+Version: 1.1.1
+Installed-Size: 212
+Size: 18372
+MD5sum: 1880565ed2713356aba7e51042ecb372
+Filename: ./debs/alphabetsources_1.1.1.deb
+
+Package: com.julioverne.closecam
+Architecture: iphoneos-arm
+Version: 0.0~beta2
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Homepage: http://twitter.com/ijulioverne
+Description: اغلاق الكاميرا عند الخروج منها وعدم استعمالها
+Name: CloseCam
+Author: julioverne
+Depiction: https://jailbreakgroup.github.io/depictions/?p=closecam
+Size: 6426
+MD5sum: 7dfd93bdc1cb80fc2fa3ef08913c1f1e
+Filename: ./debs/closecam_0.0_beta2.deb
+
+Package: com.julioverne.illlooklater11
+Name: IllLookLater (iOS 11)
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 7.0)
+Conflicts: com.N104.IllLookLater
+Architecture: iphoneos-arm
+Description: انظر الى شاشة هاتف فقط عندما تريد ذلك
+Maintainer: Julio
+Author: N104, julioverne
+Section: Tweaks
+Version: 2.0-2
+Depiction: https://jailbreakgroup.github.io/depictions/?p=illlooklater11
+Size: 63910
+MD5sum: 71956aa9ae3a698a0ae11ec1b669d7f3
+Filename: ./debs/illlooklater11_2.0-2.deb
+
+Author: Delewhopper, julioverne
+Maintainer: Julio
+Name: KeySwipe (iOS 11)
+Package: com.julioverne.keyswipe11
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.keyswipe
+Section: Tweaks
+Version: 1.0.2-3a
+Architecture: iphoneos-arm
+Description: تغيير الكيبورد بالسحب لاعلى واسفل
+dev: delewhopper
+Icon: file:///Library/PreferenceBundles/keyswipeprefs.bundle/keyswipeicon.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=KeySwipe11
+Size: 16654
+MD5sum: 43dc1c10c4d289c21b0759b69c4aa892
+Filename: ./debs/keyswipe11_1.0.2-3a.deb
+
+Package: com.aids.makecydiabuyagain
+Name: MakeCydiaBuyAgain
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: تفعيل الشراء داخل السيديا
+Depiction: https://jailbreakgroup.github.io/depictions/?p=makecydiabuyagain
+Maintainer: Jake Ihasz
+Author: Jake Ihasz
+Section: Tweaks
+Version: 1.0.2-89+debug
+Installed-Size: 176
+Size: 21994
+MD5sum: 51d410afdddf100770b90842df01ab3a
+Filename: ./debs/makecydiabuyagain_1.0.2-89+debug.deb
+
+Package: Flex3beta
+Name: Flex 3 Beta
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
+Recommended: com.modmyi.libswift4 (>= 4.0.3)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, flex3featurecatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, flex3featurecatalog
+Version: 1:3~Beta48
+Architecture: iphoneos-arm
+Description: تثبيت / إنشاء باتشات للنظام
+Maintainer: John Coates
+Author: John Coates
+Depiction: https://jailbreakgroup.github.io/depictions/?p=Flex3beta
+Section: Tweaks
+Size: 20685344
+MD5sum: d2ffdc66b5735c12a360225cb71e57e8
+Filename: ./debs/Flex3_3_Beta48.deb
+
+Package: net.angelxwind.appsyncunified
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4.1)
+Depiction: https://jailbreakgroup.github.io/depictions/?p=appsyncunified
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Homepage: https://cydia.angelxwind.net/
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: إمكانية تثبيت التطبيقات من خارج المتجر
+Section: Tweaks
+Author: Linus Yang, Karen/あけみ <karen@angelxwind.net>
+Version: 31.1
+Installed-Size: 256
+Size: 30362
+MD5sum: 3d066c0024bacf35a705da8907a11e1a
+Filename: ./debs/appsyncunified.deb
+
+Author: kunderscore <kunderscore3@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Avertas
+Package: com.kunderscore.avertas
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, applist
+Section: Tweaks 
+Installed-Size: 196
+Version: 9-2
+Architecture: iphoneos-arm
+Description: للتنقل بين التطبيقات بالخلفية بطريقة جميلة
+Depiction: https://jailbreakgroup.github.io/depictions/?p=avertas
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=avertasDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: kunderscore
+Tag: purpose::extension, compatible::ios11
+Icon: file:///Library/PreferenceBundles/AvertasPreferences.bundle/Avertas@2x.png
+Size: 40892
+MD5sum: cff38c5597f8f0a50cd29415858b504a
+Filename: ./debs/avertas_9-2.deb
+
+Package: com.spark.batterypercentx
+Name: BatteryPercentX [Public]
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: إستبدال ايقونة البطارية بالنسبة المئوية لـiPhone X
+Depiction: https://jailbreakgroup.github.io/depictions/?p=BatteryPercentX
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 1.2.1-1
+Installed-Size: 668
+Size: 190692
+MD5sum: dc929eaa0aea4b7083fea189e80cf279
+Filename: ./debs/batterypercentx_1.2.1-1.deb
+
+Package: com.midnightchips.bettersettings10
+Name: BetterSettings10
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker, firmware(<<11)
+Architecture: iphoneos-arm
+Description: تغيير شكل الإعدادات من خلفيات والوان
+Maintainer: midnightchips
+Author: midnightchips
+Depiction: https://jailbreakgroup.github.io/depictions/?p=bettersettings10
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 556
+Size: 89980
+MD5sum: f9acfeed7a5578615fba84b970cc98b8
+Filename: ./debs/bettersettings10.deb
+
+Name: BigShotJb (iOS 11)
+Package: com.julioverne.bigshotjb11
+Depends: mobilesubstrate, libactivator
+Conflicts: com.tapthaker.bigshotjb, com.tapthaker.bigshotjb11
+Version: 0.0.2-2a
+Architecture: iphoneos-arm
+Description: أخذ صورة كاملة للشاشة
+Maintainer: Julio
+Author: Tapan Thaker (tapthaker), julioverne
+dev: tapthaker
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=bigshotjb11
+Size: 33268
+MD5sum: e4e9fbb6b97b2a3285e27529e51da3ca
+Filename: ./debs/bigshotjb11_0.0.2-2a.deb
+
+Package: com.julioverne.celldia
+Name: CellDia
+Author: julioverne
+Version: 0.0~beta5
+Depends: mobilesubstrate, cydia
+Architecture: iphoneos-arm
+Description: تغيير تصميم السيديا
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=celldia
+Size: 20012
+MD5sum: 66397cc1ea555845371bf859725a419b
+Filename: ./debs/celldia_0.0_beta5.deb
+
+Package: com.creaturecoding.copyvideourl
+Name: CopyVideoURL
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: نسخ رابط الفيديو من المشغل
+Depiction: https://jailbreakgroup.github.io/depictions/?p=copyvideourl
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks
+Version: 0.1.0
+Installed-Size: 200
+Size: 3920
+MD5sum: 72f2558ee6ab9c7cfbab6ce16838cf1d
+Filename: ./debs/copyvideourl_0.1.0.deb
+
+Package: com.creaturecoding.covert
+Name: covert
+Description: كتم و إخفاء الرسائل 
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: CreatureSurvive <support@creaturecoding.com>
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+dev: CreatureSurvive
+Homepage: https://creaturecoding.com/
+Depiction: https://jailbreakgroup.github.io/depictions/?p=covert
+Icon: 
+Version: 0.7
+Installed-Size: 72
+Size: 7700
+MD5sum: 51a7263dcbcb76bc8c5ded40e05b4ca0
+Filename: ./debs/covert_0.7.deb
+
+Package: com.laughingquoll.cowbell
+Name: Cowbell
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: إضافة نسبة البطارية لأيقونة موفر الطاقة في مركز التحكم
+Maintainer: LaughingQuoll
+Author: LaughingQuoll
+Depiction: https://jailbreakgroup.github.io/depictions/?p=cowbell
+Section: Tweaks
+Version: 1.2.1
+Installed-Size: 120
+Size: 6104
+MD5sum: 593a594514d3c4831cd2026c72aeaf22
+Filename: ./debs/cowbell_1.2.1.deb
+
+Package: com.thecomputerwhisperer.detailedpowerusage
+Name: DetailedPowerUsage
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: org.thebigboss.detailedbatteryusage
+Architecture: iphoneos-arm
+Description: أظهار معلومات البطارية وإستهلاكها بشكل تفصيلي
+Depiction: https://jailbreakgroup.github.io/depictions/?p=detailedpowerusage
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Section: Tweaks
+Icon: file:///Library/Application Support/DPUTweakResources/kTCWIcon.png
+dev: TheComputerWhisperer
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Version: 1.0.2-1b
+Installed-Size: 980
+Size: 548104
+MD5sum: 76265b6adc08066b4581cbfd55c00638
+Filename: ./debs/detailedpowerusage_1.0.2-1b.deb
+
+Name: DylibDisabler 3
+Package: us.nakedproductions.dylibdisabler3
+Depends: firmware (>= 10.0)
+Replaces: us.nakedproductions.dylibdisabler3
+Conflicts: us.nakedproductions.dylibdisabler, us.nakedproductions.dylibdisabler2
+Priority: optional
+Section: Utilities
+Description: إالغاء الاداوت - تساعد في حل المشاكل 
+Version: 3.0-0
+Maintainer: ichitaso
+Author: EvilPenguin / ichitaso
+Depiction: https://jailbreakgroup.github.io/depictions/?p=dylibdisabler3
+Architecture: iphoneos-arm
+Size: 666914
+MD5sum: 13e2434452f97abd6db29126dae9984c
+Filename: ./debs/dylibdisabler_3.0-0.deb
+
+Package: com.spark.easyswitcherx
+Name: EasySwitcherX [Public]
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: الخروج من التطبيقات بالخلفية بالسحب لاعلى دون الحاجة للضغط المطول لـiPhone X
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=EasySwitcherX
+Version: 0.0.4-5
+Installed-Size: 308
+Size: 52158
+MD5sum: 438ba67ccc777f303ba9792422a8497d
+Filename: ./debs/easyswitcherx_0.0.4-5.deb
+
+Package: com.creaturecodiing.ebullience
+Name: ebullience
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm
+Description: إضافة مؤثرات عند النزول والصعود بالصفحة
+Depiction: https://jailbreakgroup.github.io/depictions/?p=ebullience
+Maintainer: CreatureSurvive
+Author: CreatureSurvive
+Section: Tweaks
+Version: 1.0.1b
+Installed-Size: 176
+Size: 14608
+MD5sum: dda9281a026dc1fa7942451deab1a086
+Filename: ./debs/ebullience_1.0.1b.deb
+
+Package: com.julioverne.ext3nder-installer
+Name: Ext3nder Installer
+Author: julioverne
+Version: 021a
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Conflicts: com.julioverne.ext3nder
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: تجديد الشهادات المجانية كل 7 ايام
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Utilities
+Depiction: https://jailbreakgroup.github.io/depictions/?p=ext3nder-installer
+Size: 517614
+MD5sum: 97410eb497efc82931531097c071311f
+Filename: ./debs/ext3nder-installer_021a.deb
+
+Package: com.thecomputerwhisperer.eztweaklist
+Name: EZTweakList
+Depends: firmware (>=9.0), mobilesubstrate, dpkg, cydia
+Architecture: iphoneos-arm
+Description: مشاركة لستة الأدوات المثبتة
+Depiction: https://jailbreakgroup.github.io/depictions/?p=eztweaklist
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Section: Addons
+Dev: TheComputerWhisperer
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Version: 1.0.1-1
+Installed-Size: 140
+Size: 17286
+MD5sum: 2e8685907f37faf8d9bc86bed3614be3
+Filename: ./debs/eztweaklist_1.0.1-1.deb
+
+Package: com.creaturecoding.fastdel
+Name: FastDel
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: تسريع عملية حذف الكلام
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=fastdel
+Author: CreatureSurvive <dbuehre@me.com>
+Section: Tweaks
+Version: 0.3
+Installed-Size: 440
+Size: 42790
+MD5sum: c13b9cdaed963bbd3d798c50b27b1acd
+Filename: ./debs/fastdel_0.3.deb
+
+Package: com.cpdigitaldarkroom.fastunlockx
+Name: FastUnlockX
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: تسريع الفيس اي دي لiPhone X
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=fastunlockx
+Section: Tweaks
+Tag: compatible_min::ios10, compatible_max::ios11.4, purpose::extension
+Version: 1.4
+Installed-Size: 260
+Size: 19558
+MD5sum: 3db3fcacf6568e5316be5c344d60fcff
+Filename: ./debs/fastunlockx_1.4.deb
+
+Package: com.julioverne.fiona
+Name: Fiona
+Author: julioverne
+Version: 0.1
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: جعل شكبة الواي فاي متصلة دائمًا
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/FionaSettings.bundle/icon@2x.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=fiona
+Size: 48978
+MD5sum: 227ba49bb8c4d103291edd7b0cd6bdd6
+Filename: ./debs/fiona_0.1.deb
+
+Package: me.gmoran.fiveicondockxi
+Name: FiveIconDockXI
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: إضافة ايقونة خامسة على الدوك
+Maintainer: Guillermo Moran
+Author: Guillermo Moran
+Depiction: https://jailbreakgroup.github.io/depictions/?p=fiveicondockxi
+Section: Tweaks
+Version: 0.0.1-20
+Installed-Size: 120
+Size: 2560
+MD5sum: 44167107191191eb1432781917787540
+Filename: ./debs/fiveicondockxi_0.0.1-20.deb
+
+Package: com.julioverne.flipconvert
+Name: FlipConvert
+Author: julioverne
+Version: 0.0~beta5
+Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: أضافة دعم أداة FlipSwitch إلى أداة CCSupport
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=flipconvert
+Size: 12096
+MD5sum: 693022ef5f547b74310d91b4c5493c5f
+Filename: ./debs/flipconvert_0.0_beta5.deb
+
+Package: com.a3tweaks.flipswitch
+Name: Flipswitch
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Architecture: iphoneos-arm
+Description: إضافة العديد من الأزرار للنظام
+Homepage: https://rpetri.ch/cydia/flipswitch/beta/
+Depiction: https://jailbreakgroup.github.io/depictions/?p=flipswitch
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Section: System
+Tag: purpose::extension, role::developer
+Icon: file:///Applications/Preferences.app/icon-table.png
+dev: flipswitch
+Version: 1.0.16~beta2
+Installed-Size: 2248
+Size: 273784
+MD5sum: 1ed438e014907eb486ce0d6c8bd31f1c
+Filename: ./debs/flipswitch_1.0.16~beta2.deb
+
+Package: com.thecomputerwhisperer.foldercloserxi
+Name: FolderCloserXI
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: إغلاق المجلد بشكل تلقائي بعد الخروج من التطبيق
+Depiction: https://jailbreakgroup.github.io/depictions/?p=foldercloserxi
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Section: Tweaks
+dev: TheComputerWhisperer
+Tag: purpose::extension, compatible::ios11, compatible::ios10, compatible::ios9, compatible::ios8
+Icon: file:///Library/PreferenceLoader/Preferences/FolderCloserXI@2x.png
+Version: 1.0.2-1
+Installed-Size: 188
+Size: 20804
+MD5sum: 1cb89204a508905d2920f7b04f94e8c3
+Filename: ./debs/foldercloserxi_1.0.2-1.deb
+
+Package: com.julioverne.goodwifi
+Name: GoodWiFi
+Author: julioverne
+Version: 0.0~beta4
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: تقوية الواي فاي و إظهار تفاصيل الشبكات
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=goodwifi
+Size: 54976
+MD5sum: 3866bac5a02349a472a818f7180e28ca
+Filename: ./debs/goodwifi_0.0_beta4.deb
+
+Package: com.julioverne.gravity
+Name: Gravity
+Author: julioverne <julioverne@me.com>
+Version: 0.5
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: تحرك الايقونات على حسب ميلان الهاتف
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
+Maintainer: Julio
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=gravity
+Size: 148142
+MD5sum: 71c8ea584147eabe2ee3803b95aea6fa
+Filename: ./debs/gravity_0.5.deb
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Description: تنظيف وتحرير جهازك من مخلفات التصفح والملفات الزائدة
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.7.0
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: https://jailbreakgroup.github.io/depictions/?p=icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), apt7, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Size: 4625528
+MD5sum: 717f23162f6c1e755b2eb9dfe3c848f5
+Filename: ./debs/iCleanerPro_7.7.0.deb
+
+Package: libactivator
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~beta2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0)
+Name: Activator
+Priority: optional
+Architecture: iphoneos-arm
+Description: إختصارات هائلة ومهمة جدًا
+Homepage: https://rpetri.ch/cydia/activator/beta/
+Depiction: https://jailbreakgroup.github.io/depictions/?p=activator
+Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Section: System
+dev: rpetrich
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+Version: 1.9.13~beta2
+Installed-Size: 4712
+Size: 767372
+MD5sum: c16901611d2ac95ed895e196d1bf710b
+Filename: ./debs/libactivator_1.9.13_beta2.deb
+
+Package: com.creaturecoding.libcspreferences
+Depends: mobilesubstrate, firmware (>=9.0), preferenceloader
+Name: libCSPreferences
+Version: 0.9.9.9
+Architecture: iphoneos-arm
+Description: مكتبة مساعدة لبعض الاداوت
+Depiction: https://jailbreakgroup.github.io/depictions/?p=libcspreferences
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcspreferencesDp
+Installed-Size: 1724
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CreatureSurvive <support@creaturecoding.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Development
+dev: creaturecoding
+Tag: purpose::extension, cydia::obsolete, compatible::ios10
+Size: 266950
+MD5sum: aa7b8d9d4efbfd983501853ee333a163
+Filename: ./debs/libcspreferences_0.9.9.9.deb
+
+Package: com.ryleyangus.libertylite
+Name: Liberty Lite
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Architecture: iphoneos-arm
+Description: إخفاء الجلبريك عن التطبيقات
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=libertylite
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Version: 0.2.10
+Installed-Size: 476
+Size: 46610
+MD5sum: de8005d35c2204becf725c327f68e1e5
+Filename: ./debs/libertylite_0.2.10.deb
+
+Package: net.angelxwind.mikoto
+Name: mikoto
+Description: العديد من الخيارات لتخصيص النظام
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer
+Replaces: 
+Architecture: iphoneos-arm
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Homepage: https://cydia.angelxwind.net/
+Depiction: https://jailbreakgroup.github.io/depictions/?p=mikoto
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.mikoto.png
+Conflicts: com.xcxiao.simplelsios10
+Version: 4.0.3
+Installed-Size: 15548
+Size: 11582804
+MD5sum: e1f49254a62ed949fd6d7d44c0b01043
+Filename: ./debs/mikoto.deb
+
+Package: com.idevicehacked.miscsettings
+Name: MiscSettings
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Description: أكثر من 46 خيار لتعديل النظام
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=miscsettings
+Version: 2.0.8
+Installed-Size: 548
+Size: 161760
+MD5sum: 046650739f08af2deafaa69bdca83ea1
+Filename: ./debs/miscsettings_2.0.8.deb
+
+Package: net.tateu.moveable9
+Name: Moveable9
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.moveable
+Architecture: iphoneos-arm
+Description: إعادة ترتيب الايقونات على شريط الحالة
+Maintainer: Josh Harris (tateu) <tateu@tateu.net>
+Author: Josh Harris (tateu) <tateu@tateu.net>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=moveable9
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Moveable9.bundle/Moveable9.png
+Version: 1.0.0~beta29-26
+Installed-Size: 979
+Size: 280192
+MD5sum: 4e38c34989ca738aeca5281c58e36d15
+Filename: ./debs/moveable9_1.0.0_beta29-26.deb
+
+Package: ws.hbang.newterm2
+Name: NewTerm 2 (iOS 7 – 11)
+Depends: firmware (>= 7.0), com.modmyi.libswift4 (>= 4.0.3-3), ws.hbang.common (>= 1.11.2), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Description: موجه أوامر - ترمنال
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Icon: file:///Applications/NewTerm.app/Icon-Small@2x.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=newterm2
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: hbang
+Version: 2.0
+Installed-Size: 2192
+Size: 739528
+MD5sum: 07ecb5140e97da96e5ff72bdbdfc7949
+Filename: ./debs/newterm2_2.0.deb
+
+Package: com.shade.nougat
+Name: Nougat
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Architecture: iphoneos-arm
+Description: تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
+Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=nougat
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Section: Tweaks
+Version: 0.5.2
+Installed-Size: 1116
+Size: 616214
+MD5sum: c5376274c3c11b1d57a3c07387dfdb09
+Filename: ./debs/nougat_0.5.2.deb
+
+Package: com.julioverne.ntspeed
+Architecture: iphoneos-arm
+Version: 0.2~beta6
+Section: Tweaks
+Maintainer: Julio
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Homepage: http://twitter.com/ijulioverne
+Description: إظهار إستهلاك النت على الشاشة
+Name: NtSpeed
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=ntspeed
+Size: 45492
+MD5sum: 7aa5a2b62407a9f73e58e9fd29d1fe45
+Filename: ./debs/ntspeed_0.2_beta6.deb
+
+Package: ch.mdaus.palette
+Name: Palette
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: تغيير لون الأشعارات حسب لون التطبيق
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=palette
+Version: 1.0
+Installed-Size: 736
+Size: 407808
+MD5sum: 1a0f179386ca7b6ae4640942c2409280
+Filename: ./debs/palette_1.0.deb
+
+Package: com.jeffrey.pikabulite
+Name: Pikabu Lite
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: تغيير شكل واجة تغيير الصوت لشكل انظف
+Maintainer: Jeffrey Chan
+Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=pikabulite
+Section: Tweaks
+Size: 230526
+MD5sum: 3e5582746aca1bd94bcab95aa4314d43
+Filename: ./debs/pikabulite_1.1.0.deb
+
+Package: preferenceloader
+Name: PreferenceLoader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: إظهار اعدادات الأدوات 
+Maintainer: Dustin Howett <cydia.pl@relay.howett.net>
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Section: System
+dev: dustinhowett
+Depiction: https://jailbreakgroup.github.io/depictions/?p=preferenceloader
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Tag: role::hacker, purpose::library
+Version: 2.2.4~alpha1
+Installed-Size: 388
+Size: 49862
+MD5sum: eb8cd7a434e9ab019ab775d19442eccd
+Filename: ./debs/preferenceloader_2.2.4_alpha1.deb
+
+Package: net.angelxwind.preferenceorganizer2
+Name: PreferenceOrganizer 2
+Architecture: iphoneos-arm
+Description: ترتيب الاعداتا وتقسيمها الى اربع اقسام
+Homepage: https://cydia.angelxwind.net/
+Depiction: https://jailbreakgroup.github.io/depictions/?p=preferenceorganizer2
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader (>= 2.2.3), firmware (>= 6.0), net.angelxwind.karenprefs (>= 1.3), net.angelxwind.karenlocalizer
+Conflicts: com.phillipt.noappsettings, jp.r-plus.cloaky, me.qusic.preferenceorganizer, com.sull.preferenceorganizer, com.sull.preferenceorganizer2, com.sull.preferenceorganizer7
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Replaces: org.ilendsoft.preferenceorganizer, com.eliz.preferenceorganizer7
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.preferenceorganizer2.png
+Version: 4.0.5
+Installed-Size: 1872
+Size: 1377484
+MD5sum: cb584a2d75048730a1f0455121075f4f
+Filename: ./debs/preferenceorganizer2.deb
+
+Package: me.alfhaily.rocket
+Name: Rocket for Instagram
+Version: 3.0.16
+Description: حفظ المقاطع من الانستقرام والمزيد من الأضافات
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap, me.alfhaily.rocket.lib (>= 1.0.1)
+Priority: optional
+Architecture: iphoneos-arm
+Author: Majd Alfhaily
+Depiction: https://jailbreakgroup.github.io/depictions/?p=rocket
+Icon: file:///Library/Application Support/Rocket/Rocket.bundle/AppIcon.png
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Size: 2427380
+MD5sum: c95896b9e7ef51b485629a2a8e5c1353
+Filename: ./debs/rocket_3.0.16.deb
+
+Package: applebetas.ios.tweak.sleekquicktype
+Name: SleekQuickType
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: تغير شكل الاقتراحات اعلى الكيبورد مثل iOS 12
+Maintainer: AppleBetas
+Author: AppleBetas
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=sleekquicktype
+Version: 1.0.1-1
+Installed-Size: 72
+Size: 6440
+MD5sum: 6583d1d2dc290401dba259d91aa5d4b8
+Filename: ./debs/sleekquicktype_1.0.1-1.deb
+
+Package: com.subdiox.storeswitcher2
+Name: StoreSwitcher 2
+Depends: firmware (>= 11), mobilesubstrate
+Architecture: iphoneos-arm
+Description: إضافة زر للتبديل بين حسابات الاب ستور
+Maintainer: subdiox
+Author: subdiox
+Depiction: https://jailbreakgroup.github.io/depictions/?p=storeswitcher2
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 84
+Size: 10720
+MD5sum: e06d17dbadcb84dd88a934c4f60a5d02
+Filename: ./debs/storeswitcher2_1.0.1.deb
+
+Package: applebetas.ios.tweak.time11
+Name: TimeXI
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Description: تعريض خط الساعة على قفل الشاشة
+Maintainer: AppleBetas
+Author: AppleBetas
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=tweaktime
+Version: 1.0
+Installed-Size: 72
+Size: 2704
+MD5sum: 19919c22ae8a438e2f5252e0462d8eda
+Filename: ./debs/tweak.time11_1.0.deb
+
+Package: applebetas.ios.tweak.watchreboot
+Name: WatchReboot
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Description: إرسال تنبية و إعادة تشغيل ساعة ابل
+Maintainer: AppleBetas
+Author: AppleBetas
+Depiction: https://jailbreakgroup.github.io/depictions/?p=watchreboot
+Section: Tweaks
+Version: 1.0.0-38
+Installed-Size: 120
+Size: 7754
+MD5sum: eaf5531e2b485093759d9750e37a0315
+Filename: ./debs/watchreboot_1.0.0-38.deb
+
+Package: com.julioverne.wishdia
+Architecture: iphoneos-arm
+Version: 0.0~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Homepage: http://twitter.com/ijulioverne
+Description: قائمة الأمنيات للسيديا
+Name: WishDia
+Author: julioverne
+Depiction: https://jailbreakgroup.github.io/depictions/?p=wishdia
+Size: 19078
+MD5sum: 5e3803320f0b4f65c99c4d491157a763
+Filename: ./debs/wishdia_0.0_beta1.deb
+
+Name: DisableRTL
+Package: com.imokhles.disablertl
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 9.0)
+Version: 1.1-1
+Architecture: iphoneos-arm
+Description: إصلاح محاذاة اللغة العربية
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disablertlDp
+Depiction: https://jailbreakgroup.github.io/depictions/?p=disablertl
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: iMokhles <mokhleshussien@aol.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios9
+Installed-Size: 198
+dev: imokhles
+Size: 3714
+MD5sum: 379f19a1be82b117e53e085f99dbb5d1
+Filename: ./debs/disablertl_1.1-1.deb
+
+Package: co.dynastic.tsssaver
+Name: TSS Saver
+Architecture: iphoneos-arm
+Description: بضغطة زر احفظ ملف الشاش
+Depiction: https://jailbreakgroup.github.io/depictions/?p=TSSsaver
+Maintainer: Jamie Bishop <jamie@dynastic.co>
+Author: Jamie Bishop <jamie@dynastic.co>
+Section: Utilities
+Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
+Version: 1.2.0
+Installed-Size: 444
+Size: 152032
+MD5sum: fe2e43efaa390e4b81f100175ad1cddb
+Filename: ./debs/TSSsaver.deb
+
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager 64-bit
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Version: 3.5.2-4
+Architecture: iphoneos-arm
+Description: متصفح لملفات النظام لأجهزة ال64bit
+Depiction: https://jailbreakgroup.github.io/depictions/?p=filza64bit
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Installed-Size: 21012
+Size: 8536906
+MD5sum: 08a78e47770f3d22da04a8f81856cc2e
+Filename: ./debs/filza64bit_3.5.2-4.deb
+
+Package: com.tigisoftware.filza
+Name: Filza File Manager
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Version: 3.5.2-4
+Architecture: iphoneos-arm
+Description: متصفح لملفات النظام
+Depiction: https://jailbreakgroup.github.io/depictions/?p=filza
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Installed-Size: 31796
+Size: 13324918
+MD5sum: 0261204dbeab22e52de2dac63a33133b
+Filename: ./debs/filza_3.5.2-4.deb
+
+Package: com.maxarmin.7icondock
+Name: 7IconDock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: إضافة ايقونة سابعة للدوك السفلي
+Depiction: https://jailbreakgroup.github.io/depictions/?p=7icondock
+Maintainer: maxarmin
+Author: maxarmin
+Section: Tweaks
+Version: 0.1.0
+Installed-Size: 117
+Size: 2542
+MD5sum: 1031145f080e99179d80533cc10d7148
+Filename: ./debs/7icondock_0.1.0.deb
+
+Package: com.ps.anywherepredict
+Name: AnywherePredict
+Depends: mobilesubstrate, firmware (>= 8.0)
+Architecture: iphoneos-arm
+Description: إظهار النص التنبؤي بكل مكان
+Author: PoomSmart
+Maintainer: PoomSmart
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=anywherepredict
+Version: 1.1.1
+Installed-Size: 136
+Size: 3350
+MD5sum: 0a7c47eaa795b2ea4a01c758d28f15d9
+Filename: ./debs/anywherepredict_1.1.1.deb
+
+Package: com.tigisoftware.appdatamanager
+Name: Apps Manager
+Depends: zip
+Architecture: iphoneos-arm
+Description: إدارة التطبيقات المثبتة
+Depiction: https://jailbreakgroup.github.io/depictions/?p=appdatamanager
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Version: 1.4.0-45
+Installed-Size: 8852
+Size: 3628386
+MD5sum: ad8b5483c7678f5a29091f575b205d03
+Filename: ./debs/appdatamanager_1.4.0-45.deb
+
+Package: com.julioverne.appstorenohistory
+Name: Appstore No History
+Author: julioverne
+Version: 0.0~beta8
+Depends: preferenceloader, mobilesubstrate, applist
+Architecture: iphoneos-arm
+Description: تنظيف صفحة التحديثات في الأب ستور
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
+Depiction: https://jailbreakgroup.github.io/depictions/?p=appstorenohistory
+Size: 30776
+MD5sum: 87a291c667022ea14f3afd9461459a57
+Filename: ./debs/appstorenohistory_0.0~beta8.deb
+
+Package: com.thecomputerwhisperer.AppStoreOnceMore
+Section: Tweaks
+Maintainer: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
+Architecture: iphoneos-arm
+Description: إصلاح مشاكل الاب ستور
+Name: App Store Once More
+Author: TheComputerWhisperer <actualcomputerwhisperer@gmail.com>
+Depiction: https://jailbreakgroup.github.io/depictions/?p=appstoreoncemore
+Icon: file:///Library/PreferenceBundles/AppStoreOnceMorePrefs.bundle/images/icon@2x.png
+Version: 1.1b-1+debug
+Installed-Size: 552
+Size: 232050
+MD5sum: 4c24f5a246a022d9700cbc3e38c6d374
+Filename: ./debs/appstoreoncemore_1.1b-1+debug.deb
+
+Package: info.rpdev.dateinstatusbar
+Name: Date In Statusbar
+Depends: mobilesubstrate, firmware(>=8.0)
+Architecture: iphoneos-arm
+Description: إضافة التاريخ الى شريط الحالة
+Maintainer: Redpandadev
+Author: Redpandadev
+Section: Tweaks
+Depiction: https://jailbreakgroup.github.io/depictions/?p=dateinstatusbar
+Version: 0.9.1-2
+Installed-Size: 136
+Size: 4896
+MD5sum: b4db63e19d2effe6e130e5e6bd92f8df
+Filename: ./debs/dateinstatusbar_0.9.1-2.deb
+
+Package: com.maxarmin.sixicondock
+Name: SixIconDock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: إضافة ايقونة سادسة للدوك السفلي
+Depiction: https://jailbreakgroup.github.io/depictions/?p=sixicondock
+Maintainer: maxarmin
+Author: maxarmin
+Section: Tweaks
+Version: 0.1.0-1+debug
+Installed-Size: 117
+Size: 2976
+MD5sum: 0c45c8de383e4096ccadf9ae70358df6
+Filename: ./debs/sixicondock_0.1.0-1debug.deb
+
+Name: PasscodeText
+Package: fr.coupaings.passcodetext
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Version: 0.1
+Architecture: iphoneos-arm
+Description: تغيير نص كلمة"أدخل كلمة المرور"
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=passcodetextDp
+Depiction: https://jailbreakgroup.github.io/depictions/?p=passcodetext
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Funsky (Coupaings) <funskydev@outlook.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios11
+Installed-Size: 299
+dev: funsky
+Icon: file:///Library/PreferenceBundles/PasscodeTextPreferences.bundle/icon@2x.png
+Size: 53150
+MD5sum: 6bf20dea4ed53e251503f28e0be254ce
+Filename: ./debs/passcodetext_0.1.deb
+
+Package: nl.d4ni.noiconlabels
+Version: 3.0.0-1
+Section: Tweaks
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), jp.ashikase.techsupport (>= 1.5.0.1)
+Architecture: iphoneos-arm
+Installed-Size: 336
+Description: إخفاء أسماء التطبيقات والمجلدات
+Depiction: https://jailbreakgroup.github.io/depictions/?p=noiconlabels
+Name: NoIconLabels
+Author: D4ni <mail@d4ni.nl>
+Size: 37402
+MD5sum: 3edc2dc06ff8d4947d86a5f7587bfd17
+Filename: ./debs/noiconlabels_3.0.0-1.deb

@@ -1,0 +1,28 @@
+<package>
+	<id>flipconvert</id>
+	<name>اداة FlipConvert</name>
+	<version>0.0~beta5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>		
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>iOS>= 11.0, MobileSubstrate, PreferenceLoader, CCSupport, FlipSwitch</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>أضافة دعم أداة FlipSwitch إلى أداة CCSupport
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>تعديل الخط في البار العلوي</change>
+	</changelog>
+</package>

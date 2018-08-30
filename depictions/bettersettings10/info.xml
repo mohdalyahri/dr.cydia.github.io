@@ -1,0 +1,45 @@
+<package>
+	<id>bettersettings10</id>
+	<name>اداة Bettersettings10</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>10.3.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>iOS 10-10.3.3, MobileSubstrate, libCSColorPicker, libCSPreferences, libColorpicker, </package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>تغيير خلفية إعدادات الجهاز وإضافة ألوان حسب رغبتك
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>	
+	<screenshot>
+			<description></description>			
+			<image>2.png</image>
+		</screenshot>
+	<screenshot>
+			<description></description>			
+			<image>3.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>			
+			<image>4.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>			
+			<image>5.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>إصدار أولي للأداة</change>
+	</changelog>
+</package>

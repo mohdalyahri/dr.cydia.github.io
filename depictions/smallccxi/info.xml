@@ -1,0 +1,28 @@
+<package>
+	<id>smallccxi</id>
+	<name>اداة SmallCCXI </name>
+	<version></version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, PreferenceLoader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>جعل مركز التحكم اصغر
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>بعض الاصلاحات</change>
+	</changelog>
+</package>

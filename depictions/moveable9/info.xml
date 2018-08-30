@@ -1,0 +1,53 @@
+<package>
+	<id>moveable9</id>
+	<name>اداة Moveable9</name>
+	<version>1.0.0~beta29-26</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> iOS >=9.0, MobileSubstrate, PreferenceLoader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>التحكم بأماكن الايقونات على شريط الحالة
+		</description>
+		<description ><![CDATA[
+		<font color="red">لا تعمل على iPhone X  إلا بعد تثبيت أداة StatusBarNoX </font>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>		
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>				
+			<image>3.png</image>
+		</screenshot>
+        <screenshot>
+			<description></description>				
+			<image>4.png</image>
+		</screenshot>	
+		<screenshot>
+			<description></description>				
+			<image>5.png</image>
+		</screenshot>
+        <screenshot>		
+			<description></description>				
+			<image>6.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>اصلاح خلل في iOS 11 لايقونة الواي فاي والبلوتوث عند تجميعهم في مكان واحد مع ثيم مستخدم</change>
+		<change>اصلاح حجم الايقونات عند تطبيقها من ثيم خارجي</change>
+	</changelog>
+</package>

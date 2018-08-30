@@ -1,0 +1,28 @@
+<package>
+	<id>raisetoanswer</id>
+	<name>اداة RaiseToAnswer (iOS 11) </name>
+	<version></version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>ارفع جهازك للرد على المكالمات
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>اصدار اولي للاداة</change>
+	</changelog>
+</package>

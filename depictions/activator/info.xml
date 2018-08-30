@@ -1,0 +1,23 @@
+<package>
+	<id>activator</id>
+	<name>أداة Activator</name>
+	<version>1.9.13~beta2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, iOS>=7.0, PreferenceLoader, FlipSwitch, RocketBootstrap</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+		<descriptionlist>
+		<description>إختصارات هائلة ومهمة جدًا .. مهم تثبيتها لإعتماد أدوات كثيرة عليهاً
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change>إضافة دعم إصدار 11</change>
+		<change>تحديث اللغة للاداه</change>
+	</changelog>
+</package>
